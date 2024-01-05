@@ -1,4 +1,5 @@
 # HealthGuard: Machine Learning for Heart Disease and Diabetes Detection
+![Final Product](image.png)
 
 ## Introduction
 
